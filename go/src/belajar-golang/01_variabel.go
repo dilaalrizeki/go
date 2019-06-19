@@ -11,10 +11,10 @@ func main() {
 	// <nama-variabel> := <nilai>
 
 	// menggunakan var, tanpa tipe data, menggunakan perantara "=" {Manifest Typying}
-	var firstName = "john"
+	var firstName = "Dilarida"
 
 	// tanpa var, tanpa tipe data, menggunakan perantara ":=" {Inference}
-	lastName := "wick"
+	lastName := "Alrizeki"
 
 	fmt.Println("halo", firstName, lastName)
 	
